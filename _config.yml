@@ -1,0 +1,28 @@
+name: '71536'
+favicon: null
+layout_spectrum: 0.7870715823955834
+typography_spectrum: 0.021858216729015112
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1826046716887504
+  lightness: 0.3188014191109687
+  saturation: 0.7730215941555798
+  rhythmicContrast: 0.46258098585531116
+purpose: []
